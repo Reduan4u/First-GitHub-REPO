@@ -7,3 +7,13 @@ h1 {
 p {
     background-color: rgba(128, 128, 152, 0.186);
 }
+
+#left {
+
+    width: 50%;
+}
+
+#right {
+
+    width: 25%;
+}
